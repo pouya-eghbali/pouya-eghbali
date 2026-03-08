@@ -57,10 +57,8 @@ Domains       Compilers · Distributed Systems · Binary Protocols · Blockchain
 
 <div align="center">
 
-<img src="profile-summary-card-output/github_dark/3-stats.svg" height="170" />
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" />
-
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+<img src="metrics.stats.svg" width="100%" />
+<img src="metrics.languages.svg" width="100%" />
 
 </div>
 
