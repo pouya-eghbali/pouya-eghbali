@@ -56,10 +56,7 @@ Domains       Compilers · Distributed Systems · Binary Protocols · Blockchain
 ---
 
 <div align="center">
-
-<img src="metrics.stats.svg" width="100%" />
-<img src="metrics.languages.svg" width="100%" />
-
+<img src="metrics.stats.svg" width="49%" /><img src="metrics.languages.svg" width="49%" />
 </div>
 
 ---
